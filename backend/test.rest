@@ -1,0 +1,12 @@
+PUT http://localhost:8080/localhost:8080/updateHotel/644a85df611ef74d0ff0ca98
+Content-Type: application/json
+
+{
+    "name":"ashokrao Hotel",
+    "type":"Lodge",
+    "city":"berlin",
+    "address":"Near Nanded railway station",
+    "distance":"2km",
+    "desc":"Best Hotel with good staff",
+    "cheapestPrice":500
+}
